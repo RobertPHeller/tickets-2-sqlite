@@ -21,8 +21,8 @@ This will create WCF-TroubleTickets.sqlite in the current directory.
 
 Then:
 
-sqlite3 WCF-TroubleTickets.sqlite
+`sqlite3 WCF-TroubleTickets.sqlite
 SQLite version 3.40.1 2022-12-28 14:03:47
 Enter ".help" for usage hints.
 sqlite> select * from tickets;
-...
+...`
